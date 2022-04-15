@@ -1,3 +1,3 @@
 # mohoho iOS application
 
-Release: April!
+Release: Mid May
